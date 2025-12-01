@@ -1,0 +1,5 @@
+{
+  "name": "EduRecord Master AI",
+  "description": "An AI-powered school record management tool that generates high-quality, unique sentences for Creative Activities, Subject Specifics, and Behavioral Characteristics using Google Gemini.",
+  "requestFramePermissions": []
+}
